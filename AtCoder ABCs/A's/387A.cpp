@@ -14,6 +14,16 @@ int main(){
 
 
 
+
+// It's python code
+// a, b = map(int, input().split())
+// print((a + b) * (a + b))
+
+
+
+
+
+
 // It's python code with library
 // # import pypyjit
 // # pypyjit.set_param('max_unroll_recursion=-1')
